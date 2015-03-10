@@ -1,0 +1,34 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "James Downs",
+    "longName": "Butterfly",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "data/butterfly.png",
+                "name": "BUTTERFLY",
+                "type": "raw"
+            },
+            {
+                "file": "fonts/opensans-5.ttf",
+                "name": "OPEN_SANS_28",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Butterfly",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "73cef077-0e65-40c5-88a2-78b9c0ef5c53",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
